@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Felipe Santos-Marquez
+title: 
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
