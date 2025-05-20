@@ -1,5 +1,5 @@
 ---
-title: "working paper"
+title: "An example preprint / working paper"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -17,35 +17,27 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: We study the diffusion of adoptions of green technologies in Japan
-after the 2011 Fukushima incident. We find that, on average, munici-
-palities within a 120 km radius of a given nuclear power plant adopted
-green technology at a higher rate than those outside that radius. We
-then rely on a network diffusion model to analyze the direction, speed,
-and order in which municipalities adopted said technology. Next, we
-perform a counterfactual analysis by targeting key spreaders to alter
-the diffusion process. Finally, we propose a novel targeting method
-accounting for possible “bottlenecks” preventing the propagation pro-
-cess in the network.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Regional Economics
+- Large Language Models
+
 featured: true
 
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: https://datashare.tu-dresden.de/s/icZAPH6Y37yJoG2
-#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_dataset: '#'
-#url_poster: '#'
-#url_project: ''
-#url_slides: ''
-#url_source: '#'
-#url_video: '#'
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_dataset: '#'
+url_poster: '#'
+url_project: ''
+url_slides: ''
+url_source: '#'
+url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
