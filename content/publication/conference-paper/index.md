@@ -22,7 +22,7 @@ publishDate: '2017-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Hugo Blox Builder Conference*
@@ -31,7 +31,8 @@ publication_short: In *ICW*
 abstract: Satellite nighttime light data are increasingly used for evaluating the performance of economies in which official statics are non‐existent, limited, or non‐comparable. In this paper, we use a novel luminosity‐based measure of GDP per capita to study regional convergence and spatial dependence across 274 subnational regions of the Association of South East Asian Nations (ASEAN) over the 1998–2012 period. Specifically, we first evaluate the usefulness of this new luminosity indicator in the context of ASEAN regions. Results show that almost 60 percent of the differences in (official) GDP per capita can be predicted by this luminosity‐based measure of GDP. Next, given its potential usefulness for predicting regional GDP, we evaluate the spatio‐temporal dynamics of regional inequality across ASEAN. Results indicate that although there is an overall (average) process of regional convergence, regional inequality within most countries has not significantly decreased. When evaluating the patterns of spatial dependence, we find increasing spatial dependence over time and stable spatial clusters (hotspots and coldspots) that are located across multiple national boundaries. Taken together, these results provide a new and more disaggregated perspective of the integration process of the ASEAN community.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: In this paper, we use a novel luminosity‐based measure of GDP per capita to study regional convergence and spatial dependence across 274 subnational regions of the Association of South East Asian Nations (ASEAN) over the 1998–2012 period.
+
 
 tags:
   - Large Language Models
@@ -41,10 +42,10 @@ featured: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Published paper
-#   url: https://doi.org/10.1111/rsp3.12335
+ - name: Published paper
+   url: https://doi.org/10.1111/rsp3.12335
 
-url_pdf: ''
+url_pdf: 'url: https://doi.org/10.1111/rsp3.12335'
 url_code: ''
 url_dataset: ''
 url_poster: ''
