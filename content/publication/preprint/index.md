@@ -2,6 +2,8 @@
 title: "The geography of energy transitions: a network approach for post-Fukushima Japan"
 authors:
 - admin
+- Alvaro Dominguez
+- David Castells-Quintana
 date: "2025-05-10T00:00:00Z"
 doi: ""
 
