@@ -24,7 +24,7 @@ summary: Using panel-data econometric techniques
 nection between the proximity to nuclear power plants and the adoption of Wind
 Energy Technology (WET) in Japan.
 tags:
-- Large Regional Economics
+- Regional Economics and Energy Economics
 
 featured: true
 
