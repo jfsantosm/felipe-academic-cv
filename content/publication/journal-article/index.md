@@ -1,16 +1,16 @@
 ---
-title: "An example journal article"
+title: "Regional income disparities, distributional convergence, and spatial effects: evidence from Indonesian regions 2010–2017"
 authors:
 - admin
-- Robert Ford
+- Carlos Mendez
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2021-01-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2021-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -21,7 +21,7 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Using a novel dataset constructed for this study, the spatio-temporal dynamics of income per capita across 34 provinces and 514 districts in Indonesia over the 2010–2017 period are analyzed. First, an exploratory spatial analysis suggests that spatial autocorrelation is only significant at the district level, and it appears to be robust from 2013 to 2017. Consequently, at this level, a spatial filtering model is used for decomposing income into a spatially independent component and a spatial residual. Next, through the lens of a distributional convergence framework, it was found that the spatially independent component shows less intra-mobility than the original income variable. When analyzing beta and sigma convergence, strong converging patterns are found for filtered variables and the speed is higher for the filtered data. Thus, it is argued that neighbour effects have played a significant role in slowing the pace of income convergence at the district level. In terms of provinces, beta convergence is reported and the distributional convergence framework suggests the formation of at least three clubs with high intra-distribution mobility for the upper end of the distribution. The article is concluded by relating these findings to some plausible policy interventions.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
