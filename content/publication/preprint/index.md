@@ -19,7 +19,7 @@ publication_short: ""
 
 abstract: Given the increasing threat of climate change, energy transitions from traditional sources to greener and renewable ones has become a major need and goal worldwide. However, energy transitions are costly and usually slow. In this paper, we empirically study the adoption and spatial spread of energy transitions from nuclear to wind triggered by the Fukushima incident in Japan in 2011. We build a novel panel dataset for 1742 municipalities, combining detailed gridded data on the location of wind farms and nuclear plants, merged with data on lights, population, vegetation greenness, and pollution from 2001 to 2020. Using panel-data econometric techniques (including difference-in-differences and event study estimates), we explore the connection between the proximity to nuclear power plants and the adoption of Wind Energy Technology (WET). We then simulate through a network diffusion model the possible speed and order in which municipalities adopted WET after 2011. Finally, we perform a counterfactual analysis by targeting key spreaders to alter the diffusion process, allowing policymakers to propose policies to accelerate the diffusion of WET.
 # Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+ summary: a
 
 tags:
 - Large Regional Economics
