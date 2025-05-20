@@ -17,7 +17,17 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Given the increasing threat of climate change, energy transitions from traditional sources to greener and renewable ones has become a major need and goal worldwide. However, energy transitions are costly and usually slow. In this paper, we empirically study the adoption and spatial spread of energy transitions from nuclear to wind triggered by the Fukushima incident in Japan in 2011. We build a novel panel dataset for 1742 municipalities, combining detailed gridded data on the location of wind farms and nuclear plants, merged with data on lights, population, vegetation greenness, and pollution from 2001 to 2020. Using panel-data econometric techniques (including difference-in-differences and event study estimates), we explore the connection between the proximity to nuclear power plants and the adoption of Wind Energy Technology (WET). We then simulate through a network diffusion model the possible speed and order in which municipalities adopted WET after 2011. Finally, we perform a counterfactual analysis by targeting key spreaders to alter the diffusion process, allowing policymakers to propose policies to accelerate the diffusion of WET.
+abstract: We study the diffusion of adoptions of green technologies in Japan
+after the 2011 Fukushima incident. We find that, on average, munici-
+palities within a 120 km radius of a given nuclear power plant adopted
+green technology at a higher rate than those outside that radius. We
+then rely on a network diffusion model to analyze the direction, speed,
+and order in which municipalities adopted said technology. Next, we
+perform a counterfactual analysis by targeting key spreaders to alter
+the diffusion process. Finally, we propose a novel targeting method
+accounting for possible “bottlenecks” preventing the propagation pro-
+cess in the network.
+
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -29,13 +39,13 @@ links:
 - name: Custom Link
   url: http://example.org
 url_pdf: https://datashare.tu-dresden.de/s/icZAPH6Y37yJoG2
-url_code: '#'
- url_dataset: '#'
- url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: '#'
+#url_poster: '#'
+#url_project: ''
+#url_slides: ''
+#url_source: '#'
+#url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
