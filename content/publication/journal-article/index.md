@@ -25,10 +25,7 @@ abstract: Using a novel dataset constructed for this study, the spatio-temporal 
 
 # Summary. An optional shortened abstract. 
 
-summary: Using a novel dataset constructed for this
-study, the spatio-temporal dynamics of income per
-capita across 34 provinces and 514 districts in
-Indonesia over the 2010–2017 period are analyzed
+summary: Using a novel dataset constructed for this study, the spatio-temporal dynamics of income per capita across 34 provinces and 514 districts in Indonesia over the 2010–2017 period are analyzed
 
 tags:
 - Source Themes
