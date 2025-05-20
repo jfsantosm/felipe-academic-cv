@@ -40,7 +40,7 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
-links:
+# links:
  - name: Published paper
   url: https://doi.org/10.1111/rsp3.12335
 url_pdf: 'https://www.researchgate.net/profile/Carlos-Mendez-5/publication/343923608_Regional_Convergence_and_Spatial_Dependence_across_Subnational_Regions_of_ASEAN_Evidence_from_Satellite_Nighttime_Light_Data/links/5f74168ba6fdcc00864856d5/Regional-Convergence-and-Spatial-Dependence-across-Subnational-Regions-of-ASEAN-Evidence-from-Satellite-Nighttime-Light-Data.pdf'
