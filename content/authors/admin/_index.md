@@ -45,9 +45,11 @@ profiles:
     url: https://orcid.org/0000-0002-4173-0515
 
 interests:
+
+  - Development Economics
+  - Regional Economics
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+
 
 education:
   - area: PhD (ongoing) Economics
