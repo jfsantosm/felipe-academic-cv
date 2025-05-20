@@ -27,8 +27,8 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
+- name: working paper
+  url: https://datashare.tu-dresden.de/s/icZAPH6Y37yJoG2
 url_pdf: https://datashare.tu-dresden.de/s/icZAPH6Y37yJoG2
 url_code: ''
 url_dataset: ''
