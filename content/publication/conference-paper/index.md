@@ -34,7 +34,7 @@ abstract: Satellite nighttime light data are increasingly used for evaluating th
 summary: In this paper, we use a novel luminosity‐based measure of GDP per capita to study regional convergence and spatial dependence across 274 subnational regions of the Association of South East Asian Nations (ASEAN) over the 1998–2012 period.
 
 tags:
-  - Large Language Models
+  - Convergence
 
 # Display this page in the Featured widget?
 featured: true
