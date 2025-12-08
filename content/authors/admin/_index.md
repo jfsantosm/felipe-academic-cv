@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:felipe.santos@tu-dresden.de'
+    url: 'mailto:santos.marquez.felipe@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -184,3 +184,5 @@ awards:
 ## About Me
 
 I am a research associate at the [Chair of International Economics at TU Dresden](https://tu-dresden.de/bu/wirtschaft/vwl/iwb#). I graduated from the development economics master’s program at GSID Nagoya University in Japan. My research interests include convergence, machine learning applications, economic growth, remote sensing, trade, and spatial econometrics. I also studied a 5-year physics BSc at the National University of Colombia. Other research interests include applications of deep learning and network theory. Moreover, I cofounded the [QuaRCS lab](https://quarcs.netlify.app/).
+
+contact email: santos.marquez.felipe[at]gmail.com
