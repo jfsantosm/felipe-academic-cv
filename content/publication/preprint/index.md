@@ -29,6 +29,8 @@ tags:
 featured: true
 
 links:
+- name: Publication
+  url: https://www.sciencedirect.com/science/article/pii/S0140988325007388
 - name: working paper
   url: https://datashare.tu-dresden.de/s/icZAPH6Y37yJoG2
 url_pdf: https://datashare.tu-dresden.de/s/icZAPH6Y37yJoG2
