@@ -52,7 +52,7 @@ interests:
 
 
 education:
-  - area: PhD (ongoing) Economics
+  - area: PhD in Economics (Expected March 2026)
     institution: TU Dresden
     date_start: 2016-01-01
     date_end: 2020-12-31
