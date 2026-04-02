@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Research Associate
+role: PhD in Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -183,6 +183,6 @@ awards:
 
 ## About Me
 
-I am a research associate at the [Chair of International Economics at TU Dresden](https://tu-dresden.de/bu/wirtschaft/vwl/iwb#). I graduated from the development economics master’s program at GSID Nagoya University in Japan. My research interests include regional economics, machine learning applications, economic growth, remote sensing, international trade, and applied econometrics. I also studied a 5-year physics BSc at the National University of Colombia. Other research interests include applications of deep learning and network theory. Moreover, I cofounded the [QuaRCS lab](https://quarcs.netlify.app/).
+I am PhD in Economics from TU Dresden. I was previously a research associate at the [Chair of International Economics at TU Dresden](https://tu-dresden.de/bu/wirtschaft/vwl/iwb#). I graduated from the development economics master’s program at GSID Nagoya University in Japan. My research interests include regional economics, machine learning applications, economic growth, remote sensing, international trade, and applied econometrics. I also studied a 5-year physics BSc at the National University of Colombia. Other research interests include applications of deep learning and network theory. Moreover, I cofounded the [QuaRCS lab](https://quarcs.netlify.app/).
 
 contact email: santos.marquez.felipe[at]gmail.com
