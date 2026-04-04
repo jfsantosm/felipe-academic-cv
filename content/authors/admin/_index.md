@@ -183,6 +183,18 @@ awards:
 
 ## About Me
 
+私は、ドイツのドレスデン工科大学（TU Dresden）にて経済学博士号を取得しました。
+同大学在学中は、国際経済学講座にて研究員として勤務していました。
+
+また、同大学入学前は、日本の名古屋大学大学院国際開発研究科（GSID）にて、開発経済学修士課程を修了しました。
+
+研究領域は、地域経済学、機械学習の応用、経済成長、リモートセンシング、国際貿易、開発経済学、および応用計量経済学にわたります。
+
+（また、コロンビア国立大学にて物理学学士課程（5年制）を修了しております。
+その他の研究関心として、深層学習およびネットワーク理論の応用が挙げられます。さらに、QuaRCSラボの共同創設者でもあります。)
+
+メール: santos.marquez.felipe[at]gmail.com
+
 I am PhD in Economics from TU Dresden. Previously, I worked as a research associate at the [Chair of International Economics at TU Dresden](https://tu-dresden.de/bu/wirtschaft/vwl/iwb#). I graduated from the development economics master’s program at GSID Nagoya University in Japan. My research interests include regional economics, machine learning applications, economic growth, remote sensing, international trade, development economics and applied econometrics. I also studied a 5-year physics BSc at the National University of Colombia. Other research interests include applications of deep learning and network theory. Moreover, I cofounded the [QuaRCS lab](https://quarcs.netlify.app/).
 
 contact email: santos.marquez.felipe[at]gmail.com
