@@ -24,7 +24,7 @@ role: PhD in Economics (TU Dresden)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Based in Nagoya, Aichi, JP
+  - name: 名古屋に住んでいます Based in Nagoya, Aichi, JP
     url: 
 
 # Social network links
