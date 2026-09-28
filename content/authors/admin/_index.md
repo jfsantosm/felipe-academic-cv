@@ -48,7 +48,8 @@ interests:
 
   - Development Economics
   - Regional Economics
-  - Artificial Intelligence
+  - Artificial Intelligence and Deep Learning
+  - Sociophysics (Physics + Social Sciences)
 
 
 education:
