@@ -62,12 +62,13 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
+  - area: Visiting student Artificial Intelligence + Deep Learning
+    institution: LMH, University of Oxford
   - area: MA in International Development / Development Economics 
     institution: Nagoya University
     date_start: 2019-04-01
     date_end: 2021-03-31
-    summary: |
-      GPA: 3.8/4.0
+    summary: 
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
