@@ -54,7 +54,7 @@ interests:
 
 education:
   - area: PhD in Economics
-    institution: TU Dresden
+    institution: TU Dresden, Germany
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -63,9 +63,9 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: Visiting student,  Artificial Intelligence + Deep Learning
-    institution: LMH, University of Oxford
+    institution: University of Oxford, United Kingdom
   - area: MA in International Development / Development Economics 
-    institution: Nagoya University
+    institution: Nagoya University, Japan
     date_start: 2019-04-01
     date_end: 2021-03-31
     summary: 
@@ -75,7 +75,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Physics
-    institution: National University of Colombia (UNAL)
+    institution: National University of Colombia (UNAL), Colombia 
     date_start: 2007-01-01
     date_end: 2011-12-31
     summary: |
