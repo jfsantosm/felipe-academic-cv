@@ -62,7 +62,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Visiting student Artificial Intelligence + Deep Learning
+  - area: Visiting student,  Artificial Intelligence + Deep Learning
     institution: LMH, University of Oxford
   - area: MA in International Development / Development Economics 
     institution: Nagoya University
