@@ -3,7 +3,7 @@
 title: Felipe Santos-Marquez
 
 # Name pronunciation (optional)
-name_pronunciation: フェリペ・サントス・マルケス
+name_pronunciation: フェリペ・サントス=マルケス
 
 # Full name (for SEO)
 first_name: Felipe	
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD in Economics (TU Dresden)
+role: PhD in Economics (TU Dresden, Germany)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
