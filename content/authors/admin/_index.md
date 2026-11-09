@@ -33,8 +33,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:santos.marquez.felipe@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/github
     url: https://github.com/jfsantosm
   - icon: brands/linkedin
